@@ -1,0 +1,12 @@
+{
+  "name": "revealjs-template",
+  "private": "true",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "James Parslow",
+  "dependencies": {
+    "reveal.js": "^4.6.1",
+    "serve": "^14.2.1"
+  }
+}
