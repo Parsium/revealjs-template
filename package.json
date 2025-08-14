@@ -6,7 +6,7 @@
   },
   "author": "James Parslow",
   "dependencies": {
-    "reveal.js": "^4.6.1",
-    "serve": "^14.2.1"
+    "reveal.js": "^5.2.1",
+    "serve": "^14.2.4"
   }
 }
